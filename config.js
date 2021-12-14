@@ -1,9 +1,9 @@
 module.exports = {
-  API_KEY: `KGPY6Ik0xJv0OsyxNNByGqyMyEyMei7xXQ5FzYXS`,
+  API_KEY: `YOUR-KEY`,
   host: "localhost",
   user: "root",
-  database: "sample",
-  password: "root@123",
+  database: "YOUR-DB",
+  password: "YOUR-PASSWORD",
 };
 
-// https://api.nasa.gov/planetary/apod?api_key=KGPY6Ik0xJv0OsyxNNByGqyMyEyMei7xXQ5FzYXS
+
